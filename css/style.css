@@ -286,7 +286,8 @@ body > header .header-text {
   color: #999999;
   padding-left: 30px;
   padding-right: 30px;
-  padding-bottom: 30px; }
+  padding-bottom: 30px;
+  margin-top: 15px; }
 
 .reviews .quote {
   padding-top: 30px;
